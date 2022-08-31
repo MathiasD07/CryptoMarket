@@ -12,7 +12,8 @@ class CoinDetails extends Component
 {
     public array $coin = [];
 
-    public function mount(string $id): void {
+    public function mount(string $id): void
+    {
         $this->coin = CoinGeckoService::getCoin($id);
     }
 

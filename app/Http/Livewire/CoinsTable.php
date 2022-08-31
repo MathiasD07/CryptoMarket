@@ -17,7 +17,8 @@ class CoinsTable extends Component
     public string $sortField = 'market_cap_rank';
     public bool $sortDescending = false;
 
-    public function setSortedField(string $field): void {
+    public function setSortedField(string $field): void
+    {
         if ($field === $this->sortField) {
             $this->sortDescending = !$this->sortDescending;
         } else {
