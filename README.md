@@ -13,8 +13,8 @@ Le preset est trouvable sur le site de **[TALL](https://tallstack.dev/)**
 
 ## Captures
 
-![Page d'accueil](storage/app/public/Screenshot1.png)
-![Page de détails](storage/app/public/Screenshot2.png)
+![Page d'accueil](Screenshot1.png)
+![Page de détails](Screenshot2.png)
 
 ## Idées d'améliorations futures
 
